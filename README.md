@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @yichuanzh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-yichuanzh/yichuanzh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I am Yichuan Zhao
+- 👀 I’m interested in  Nonparametric Statistics, Survival Analysis, Empirical Likelihood and Biostatistics.  
+- 🌱 I’m currently learning deep learning.
+- 💞️ I’m looking to collaborate on the interesting project.
+- 📫 You can reach me at yichuan@gsu.edu. 
